@@ -1,6 +1,6 @@
 # add implementation
 def add(x,y):
-	pass
+	return x+y              # on Feature1 branch
 
 # subtract implementation
 def subtract(x,y):
